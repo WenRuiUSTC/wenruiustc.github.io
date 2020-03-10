@@ -3,9 +3,9 @@ title: "Dynamic Backdoor Attacks Against Machine Learning Models"
 collection: publications
 permalink: 
 excerpt: ''
-date: 2019-01-01
-year: 2019
-venue: 26th Annual Network and Distributed System Security Symposium (NDSS 2019)
+date: 2020-03-05
+year: 2020
+venue: 
 permalink: https://arxiv.org/pdf/2003.03675.pdf
 paperurl: 'https://arxiv.org/pdf/2003.03675.pdf'
 citation: 
