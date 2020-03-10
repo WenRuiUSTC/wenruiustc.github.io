@@ -6,7 +6,7 @@ excerpt: ''
 date: 2020-03-05
 year: 2020
 venue: 
-permalink: https://arxiv.org/pdf/2003.03675.pdf
+permalink: http://academicpages.github.io/files/paper1.pdf
 paperurl: 'https://arxiv.org/pdf/2003.03675.pdf'
 citation: 
 ---
