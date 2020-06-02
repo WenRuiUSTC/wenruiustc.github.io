@@ -14,3 +14,18 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+**LEAF: A Faster Secure Search Algorithm via Localization, Extraction, and Reconstruction**
+
+**Rui Wen**, Yu Yu, Xiang Xie, Yang Zhang
+
+*In ACM SIGSAC Conference on Computer and Communications Security (CCS 2020)*
+
+&nbsp; 
+  
+
+**Dynamic Backdoor Attacks Against Machine Learning Models**
+
+Ahmed Salem, **Rui Wen**, Michael Backes, Shiqing Ma, Yang Zhang
+
+*Technical Report*
