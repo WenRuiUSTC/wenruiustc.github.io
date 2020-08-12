@@ -24,7 +24,7 @@ author_profile: true
 &nbsp; 
   
 
-**Dynamic Backdoor Attacks Against Machine Learning Models**
+**[Dynamic Backdoor Attacks Against Machine Learning Models](https://arxiv.org/abs/2003.03675)**
 
 Ahmed Salem, **Rui Wen**, Michael Backes, Shiqing Ma, Yang Zhang
 
