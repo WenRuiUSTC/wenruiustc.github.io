@@ -83,10 +83,10 @@ author:
   name             : "Rui Wen"
   avatar           : "RuiMainPage1.jpg"
   bio              : "First-year Ph.D. student at CISPA"
-  location         : "saarbrücken, Germany"
+  location         : "Saarbrücken, Germany"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=Fym-rLUAAAAJ"
   email            : "rui.wen@cispa.saarland"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
