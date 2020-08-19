@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-**[LEAF: A Faster Secure Search Algorithm via Localization, Extraction, and Reconstruction]()**
+**[LEAF: A Faster Secure Search Algorithm via Localization, Extraction, and Reconstruction](http://wenruiustc.github.io/files/LEAF.pdf)**
 
 **Rui Wen**, Yu Yu, Xiang Xie, Yang Zhang
 
