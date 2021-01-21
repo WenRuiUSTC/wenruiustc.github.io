@@ -18,7 +18,7 @@ SocInfo 2020
 -------------------------------------------------------
 CCS 2020
 
-USENIX Security 2020
+USENIX Security 2021,2020
 
 PETS 2021,2020
 
@@ -27,6 +27,8 @@ WWW 2021,2020
 RAID 2020
 
 AsiaCCS 2021
+
+EuroS&P 2021
 
 AAAI 2021
 
