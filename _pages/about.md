@@ -2,25 +2,25 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: rui_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  address: >
+    <p>Stuhlsatzenhaus 5</p>
+    <p>66123 Saarbrücken, Germany</p>
+
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+latest_posts: false # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm a fourth-year Ph.D. student at [CISPA](https://cispa.de/en), where I am supervised by [Prof. Michael Backes](https://cispa.de/en/people/backes)  and advised by [Dr. Yang Zhang](https://yangzhangalmo.github.io/). My research focuses on the intersection of machine learning and security, specifically in the areas of poisoning attacks and inference attacks.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I obtained my Bachelor's degree in Physics from the [University of Science and Technology of China](https://ustc.edu.cn/) in 2019. I completed a summer research internship at the University of Tokyo under the supervision of [Prof. Tsuyoshi Takagi](http://crypto.mist.i.u-tokyo.ac.jp/en/members/takagi.html), where I focused on the security evaluation of LWE-based cryptosystems. Following that, I did my final year thesis at Shanghai Jiao Tong University under the guidance of [Prof. Yu Yu](http://yuyu.hk/). 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am passionate about applying my research to real-world problems and welcome opportunities to collaborate with industry and academia to advance the state-of-the-art in machine learning security and privacy.
