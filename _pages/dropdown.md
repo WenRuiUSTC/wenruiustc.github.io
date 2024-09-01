@@ -9,7 +9,7 @@ permalink: /services/
 
 #### Teaching Assistant
 <ol>
-  <li>Attacks Against Machine Learning Models, Summer 2023, Saarland University</li>
+  <li>Attacks Against Machine Learning Models, Summer 2024, 2023, Saarland University</li>
   <li>Privacy of Machine Learning, Winter 2021, Saarland University</li>
   <li>Privacy Enhancing Technologies, Summer 2021, Saarland University</li>
   <li>Data-driven Understanding of the Disinformation Epidemic, Summer 2021, Saarland University</li>
