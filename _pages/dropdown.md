@@ -19,7 +19,7 @@ permalink: /services/
 #### Services
 <ul>
   <li>PC Member: <ul>
-    <li> 2025:  <a href='https://iclr.cc/'>ICLR</a>, <a href='https://cvpr.thecvf.com/'>CVPR</a></li>,  <a href='https://aaai.org/'>AAAI</a></li>, <a href='https://wacv2025.thecvf.com/'>WACV</a></li>
+    <li> 2025:  <a href='https://iclr.cc/'>ICLR</a>, <a href='https://cvpr.thecvf.com/'>CVPR</a>,  <a href='https://aaai.org/'>AAAI</a>, <a href='https://wacv2025.thecvf.com/'>WACV</a></li>
     <li> 2024: <a href='https://www.sigsac.org/ccs/CCS2024/home.html'>ACM CCS</a>, <a href='https://iclr.cc/'>ICLR</a>, <a href='https://eccv2024.ecva.net/'>ECCV</a>, <a href='https://wacv2024.thecvf.com/'>WACV</a>, <a href='https://www.acml-conf.org/2024/'>ACML</a></li>
     <li> 2023: <a href='https://nips.cc/'>NeurIPS</a></li>
     <li> 2020: <a href='https://kdd.isti.cnr.it/socinfo2020/'>SocInfo</a></li>
