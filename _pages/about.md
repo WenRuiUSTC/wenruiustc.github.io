@@ -9,7 +9,7 @@ profile:
   image: rui_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>152-8550, Ookayama campus</p>
+    <p>152-8550, Ookayama</p>
     <p>Meguro, Tokyo</p>
 
 
