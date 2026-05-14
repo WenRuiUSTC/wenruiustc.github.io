@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: rui_pic.jpg
+  image: rui.png
   image_circular: false # crops the image to make it circular
   address: >
     <p>152-8550, Ookayama</p>
